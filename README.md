@@ -1,7 +1,7 @@
 ## UV Animation Preview
 
 ### Screenshot
-![UV Animation Preview](uv-anim-preview.png)
+![UV Animation Preview](uv-anim-demo.webp)
 
 ### Demo Video
 [Watch UV Animation Demo](uv-anim-demo.mp4)
