@@ -1,7 +1,16 @@
-# UV-Anim-GTASA2.11.311-
-fixed gta sa  version 2.11.311 support UV-Anim
+## UV Animation Preview
 
-'''
+### Screenshot
+![UV Animation Preview](uv-anim-preview.png)
+
+### Demo Video
+[Watch UV Animation Demo](uv-anim-demo.mp4)
+
+## Usage
+
+Add the following function to `CPatches.cpp` and call `ApplyUVAnimPatch()` after `libGame.so` is loaded.
+
+```cpp
 void CPatches::ApplyUVAnimPatch()
 {
 
@@ -34,4 +43,6 @@ void CPatches::ApplyUVAnimPatch()
     // RtAnimInterpolatorSetCurrentAnim @ libGame.so + 0x787400:
     CMemory::Write32(g_libGame + 0x7874C0, 0xD503201F); // nop (was tbz w10, #0 = "if (RunUVAnim & 1)")
 }
-'''
+```
+
+**Supported Version:** GTA San Andreas Mobile v2.11.311 (ARM64)
