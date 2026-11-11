@@ -4,7 +4,7 @@
 ![UV Animation Preview](uv-anim-demo.webp)
 
 ### Demo Video
-[Watch UV Animation Demo](uv-anim-demo.mp4)
+[Watch UV Animation Demo](https://youtu.be/hdwvP4L3-hI?si=g44EvaKDW0JYGTtC)
 
 ## Usage
 
