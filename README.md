@@ -4,7 +4,7 @@
 ![UV Animation Preview](uv-anim-demo.webp)
 
 ### Demo Video
-![Watch UV Animation Demo](GTA_SA(2).gif)
+![GTA SA](GTA_SA%20(2).gif)
 
 ## Usage
 
