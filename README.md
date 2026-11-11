@@ -4,7 +4,7 @@
 ![UV Animation Preview](uv-anim-demo.webp)
 
 ### Demo Video
-[GTA_SA%20(2).gif](https://raw.githubusercontent.com/SukonDev/UV-Anim-GTASA2.11.311-/refs/heads/main/GTA_%20SA(2).gif)
+![GTA_SA%20(2).gif](https://raw.githubusercontent.com/SukonDev/UV-Anim-GTASA2.11.311-/refs/heads/main/GTA_%20SA(2).gif)
 
 ## Usage
 
